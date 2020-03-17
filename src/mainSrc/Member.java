@@ -13,7 +13,9 @@ public class Member {
 		
 	}
 	public int mul (int x,int y) {
+		int k = 0;
 		return x*y;
+		
 		
 	}
 	@Test
